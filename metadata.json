@@ -1,0 +1,11 @@
+{
+  "name": "QRAudioStream",
+  "description": "Offline audio and voice transfer between Android phones using animated QR codes with zero internet, real-time chunking, checksum verification, and Media playback.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

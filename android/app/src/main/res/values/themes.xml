@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.QRAudioStream" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/bg_navy</item>
+        <item name="android:navigationBarColor">@color/bg_navy</item>
+        <item name="android:windowBackground">@color/bg_navy</item>
+    </style>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QRAudioStream</string>
+    <string name="offline_tag">100% Offline Air-Gapped Transfer</string>
+</resources>
